@@ -8,7 +8,7 @@ h1{
 .head-colour{
     color: chocolate;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -41,4 +41,7 @@ section{
 .pad{
     padding-right: 150px;
 
+}
+.exp{
+    padding-left: 80px;
 }
